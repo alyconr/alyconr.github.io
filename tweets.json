@@ -1,10 +1,11 @@
- [
+{
+	"tweets": [
 		{
 			"id": "1",
 			"time": "45",
 			"nickname": "eric",
 			"likes": 43,
-			"post": " Tweet containing another account’s Twitter username, preceded by the symbol. For example: “Hello @TwitterSupport!” Where it appears for the sender: On the sender's profile page of public Tweets. ",
+			"post": "Some quick example text to build on the card title and make up the bulk of the cards content.Card titles are used by adding .card-title to a <h*> tag. In the same way, links are added and placed next to each other by adding .card-link to an <a> tag ",
 			"comments": 5,
 			"images":  "./images/city.jpg"
 				
@@ -17,7 +18,7 @@
 			"time": "5",
 			"nickname": "peter",
 			"likes": 50,
-			"post": " Most of my posts are just so I have my research handy to use wherever I am…this one is no exception. I spend A LOT of time crafting tweets (and blog post titles) that I think will be “tweetable” or “sharable”.  ",
+			"post": " some quick example text to build on the card title and make up the bulk of the cards content.  ",
 			"comments": 15,
 			"images":  "./images/glasses.jpg"
 				
@@ -42,7 +43,7 @@
 			"time": "25",
 			"nickname": "jason",
 			"likes": 150,
-			"post": "helpeve ASK QUESTIONS. GET ANSWERS. give a little, get a little. Its free. http://buff.ly/1d2rjmm ",
+			"post": "Some quick example text to build on the card title and make up the bulk of the cards content. Card titles are used by adding .card-title to a <h*> tag. In the same way, links are added and placed next to each other by adding .card-link to an <a> tag ",
 			"comments": 8,
 			"images": "./images/laptop.jpg"
 				 
@@ -51,8 +52,6 @@
 		}
 
 	]
-
-
-	
+}
 	
 	
