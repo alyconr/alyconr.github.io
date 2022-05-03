@@ -5,7 +5,7 @@
 			"time": "45",
 			"nickname": "eric",
 			"likes": 43,
-			"post": "Some quick example text to build on the card title and make up the bulk of the cards content.Card titles are used by adding .card-title to a <h*> tag. In the same way, links are added and placed next to each other by adding .card-link to an <a> tag ",
+			"post": "Tweets don't always have to be trying to squeeze as much as possible into the character limit",
 			"comments": 5,
 			"images":  "./images/city.jpg"
 				
@@ -18,7 +18,7 @@
 			"time": "5",
 			"nickname": "peter",
 			"likes": 50,
-			"post": " some quick example text to build on the card title and make up the bulk of the cards content.  ",
+			"post": " Many of us have seen tweets with abbreviations, no grammar, and no organization.  ",
 			"comments": 15,
 			"images":  "./images/glasses.jpg"
 				
@@ -31,7 +31,7 @@
 			"time": "4",
 			"nickname": "andrew",
 			"likes": 100,
-			"post": "Some quick example text to build on the card title and make up the bulk of the cards content. Card titles are used by adding .card-title to a <h*> tag. In the same way, links are added and placed next to each other by adding .card-link to an <a> tag ",
+			"post": "You'd be surprised how much creativity you can squeeze into a multi-line tweet.Not every tweet should take advantage of multiple lines. ",
 			"comments": 10,
 			"images":  "./images/hardware.jpg"
 				
@@ -43,7 +43,30 @@
 			"time": "25",
 			"nickname": "jason",
 			"likes": 150,
-			"post": "Some quick example text to build on the card title and make up the bulk of the cards content. Card titles are used by adding .card-title to a <h*> tag. In the same way, links are added and placed next to each other by adding .card-link to an <a> tag ",
+			"post": "However, occasionally using multi-line tweets is bound to attract readers that don't respond well to traditional tweets. ",
+			"comments": 8,
+			"images": "./images/laptop.jpg"
+				 
+			
+
+		},
+		{
+			"id": "5",
+			"time": "25",
+			"nickname": "Tom",
+			"likes": 1500,
+			"post": "Another type of current event tweet which is excellent for increasing engagement is the tweet that celebrates the special days on the calendar each month. ",
+			"comments": 8,
+			"images": "./images/laptop.jpg"
+				 
+			
+
+		},
+		{
+			"id": "6",
+			"time": "50",
+			"nickname55,
+			"post": "Post Planner can quickly find relevant gifs based on keyword searches. Just search for a keyword relevant to your followers, then filter the results for gifs. ",
 			"comments": 8,
 			"images": "./images/laptop.jpg"
 				 
